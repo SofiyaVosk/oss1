@@ -1,0 +1,17 @@
+﻿<Window x:Class="Лабораторная_3_7_ветка_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лабораторная_3_7_ветка_2"
+        mc:Ignorable="d"
+        Title="Лабораторная 3-7. Воскресенская София." Height="350" Width="525">
+    <Grid>
+        <Button x:Name="but_arr_gen" Content="Генерация массива" HorizontalAlignment="Left" Height="36" Margin="30,25,0,0" VerticalAlignment="Top" Width="207" Click="button_Click"/>
+        <Button x:Name="but1" Content="Задание 3" HorizontalAlignment="Left" Height="28" Margin="30,90,0,0" VerticalAlignment="Top" Width="89" Click="button1_Click"/>
+        <Button x:Name="but2" Content="Задание 6" HorizontalAlignment="Left" Height="28" Margin="145,90,0,0" VerticalAlignment="Top" Width="92" Click="button2_Click"/>
+        <Button x:Name="but3" Content="Задание 7" HorizontalAlignment="Left" Height="28" Margin="79,140,0,0" VerticalAlignment="Top" Width="92" Click="button3_Click"/>
+        <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="256" Margin="271,34,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="211"/>
+
+    </Grid>
+</Window>

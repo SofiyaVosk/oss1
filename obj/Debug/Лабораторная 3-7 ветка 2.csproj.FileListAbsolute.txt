@@ -1,0 +1,34 @@
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\bin\Debug\Лабораторная 3-7 ветка 2.exe.config
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\bin\Debug\Лабораторная 3-7 ветка 2.exe
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\bin\Debug\Лабораторная 3-7 ветка 2.pdb
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.csprojResolveAssemblyReference.cache
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\MainWindow.g.cs
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\App.g.cs
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2_MarkupCompile.cache
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2_MarkupCompile.lref
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\MainWindow.baml
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.g.resources
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная_3_7_ветка_2.Properties.Resources.resources
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.csproj.GenerateResource.Cache
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.exe
+C:\Users\akuma\Desktop\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.pdb
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\bin\Debug\Лабораторная 3-7 ветка 2.exe.config
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.exe
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\Лабораторная 3-7 ветка 2\Лабораторная 3-7 ветка 2\obj\Debug\Лабораторная 3-7 ветка 2.pdb
+C:\Users\akuma\Desktop\oss--_2\bin\Debug\Лабораторная 3-7 ветка 2.exe.config
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.exe
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.pdb
+C:\Users\akuma\Desktop\oss--_2\bin\Debug\Лабораторная 3-7 ветка 2.exe
+C:\Users\akuma\Desktop\oss--_2\bin\Debug\Лабораторная 3-7 ветка 2.pdb
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.csprojResolveAssemblyReference.cache
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\MainWindow.g.cs
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\App.g.cs
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2_MarkupCompile.cache
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2_MarkupCompile.lref
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\MainWindow.baml
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.g.resources
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная_3_7_ветка_2.Properties.Resources.resources
+C:\Users\akuma\Desktop\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.csproj.GenerateResource.Cache
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\oss--_2\bin\Debug\Лабораторная 3-7 ветка 2.exe.config
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.exe
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\oss--_2\obj\Debug\Лабораторная 3-7 ветка 2.pdb
