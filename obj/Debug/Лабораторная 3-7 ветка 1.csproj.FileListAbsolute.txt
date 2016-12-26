@@ -29,3 +29,6 @@ C:\Users\akuma\Desktop\oss--_1\oss--_1\obj\Debug\MainWindow.baml
 C:\Users\akuma\Desktop\oss--_1\oss--_1\obj\Debug\Лабораторная 3-7 ветка 1.g.resources
 C:\Users\akuma\Desktop\oss--_1\oss--_1\obj\Debug\Лабораторная_3_7_ветка_1.Properties.Resources.resources
 C:\Users\akuma\Desktop\oss--_1\oss--_1\obj\Debug\Лабораторная 3-7 ветка 1.csproj.GenerateResource.Cache
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\oss--_1\oss--_1\bin\Debug\Лабораторная 3-7 ветка 1.exe.config
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\oss--_1\oss--_1\obj\Debug\Лабораторная 3-7 ветка 1.exe
+C:\Users\akuma\Documents\Visual Studio 2015\Projects\oss--_1\oss--_1\obj\Debug\Лабораторная 3-7 ветка 1.pdb
