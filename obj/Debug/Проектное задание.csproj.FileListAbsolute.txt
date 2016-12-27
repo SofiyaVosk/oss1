@@ -1,0 +1,14 @@
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\bin\Debug\Проектное задание.exe.config
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\bin\Debug\Проектное задание.exe
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\bin\Debug\Проектное задание.pdb
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание.csprojResolveAssemblyReference.cache
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\MainWindow.g.cs
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\App.g.cs
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание_MarkupCompile.cache
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание_MarkupCompile.lref
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\MainWindow.baml
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание.g.resources
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное_задание.Properties.Resources.resources
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание.csproj.GenerateResource.Cache
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание.exe
+C:\Users\akuma\Desktop\Проектное задание\Проектное задание\obj\Debug\Проектное задание.pdb
